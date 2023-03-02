@@ -1,0 +1,13 @@
+.btn-brown{
+    background-color: rgb(141, 95, 50);
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    transition: all 0.5s ease;
+}
+
+.btn-brown:hover{
+    background-color: rgb(175, 119, 62);
+}
